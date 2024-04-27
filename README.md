@@ -1,4 +1,4 @@
-# Fee-inquiry-sys_oop-project
+# Fee-inquiry-system
 
 This is a simple school fee management system written in C++. It allows users to view the fee structure, generate fee slips for students, modify fee structures, and get help about the system.
 
